@@ -61,14 +61,16 @@ GitHub Pages lets you host your project for free so anyone can view it online!
 
 ### Enable GitHub Pages
 
-1. Go to your forked repository on GitHub
-2. Click on **Settings** (near the top of the page)
-3. Scroll down to the **Pages** section in the left sidebar
-4. Under **Source**, select **main** (or **master**) branch
-5. Select the folder:
+1. Make sure to push & commit your changes
+2. Rename the html file of the card to "index.html"
+3. Go to your forked repository on GitHub
+4. Click on **Settings** (near the top of the page)
+5. Scroll down to the **Pages** section in the left sidebar
+6. Under **Source**, select **main** (or **master**) branch
+7. Select the folder:
    - Choose **/ (root)** if your template is in the main folder
    - Or select **/docs** if instructed
-6. Click **Save**
+8. Click **Save**
 
 ### Find Your Live Site
 
